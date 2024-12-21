@@ -76,10 +76,6 @@ The game is fully responsive and works on:
 - 💻 Tablets
 - 🖥️ Desktop computers
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
 - Inspired by the original [Wordle](https://www.nytimes.com/games/wordle) game
